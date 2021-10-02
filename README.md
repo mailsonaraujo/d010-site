@@ -1,4 +1,4 @@
-# d010-site
+# site-exercicio
 Desafio 10 do curso de HTML com CSS de Gustavo Guanabara.
 <br>
-https://mailsonaraujo.github.io/d010-site/
+URL: https://mailsonaraujo.github.io/d010-site/
